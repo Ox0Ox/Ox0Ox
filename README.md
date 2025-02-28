@@ -20,30 +20,30 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sairishigangarapu&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ox0Ox&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ## 📚 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sairishigangarapu&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox0Ox&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 ## 🔥 GitHub Activity
 <p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=sairishigangarapu&theme=tokyo-night" alt="GitHub Activity Graph" />
+  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ox0Ox&theme=tokyo-night" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sairishigangarapu&theme=tokyonight" alt="GitHub Profile Summary" />
+  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ox0Ox&theme=tokyonight" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=sairishigangarapu&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ox0Ox&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sairishigangarapu&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ox0Ox&theme=onedark&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ## 💻 Languages and Tools  
