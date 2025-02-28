@@ -2,9 +2,8 @@
 
 ## 🚀 About Me  
 - 🎓 First-year Electronics and Communication Engineering student at PES University  
-- 💡 Passionate about software development, AI, and backend engineering  
-- 💻 Currently working on integrating OpenAI and Spotify API into a Flask web app & Making UI clones  
-- 🌱 Learning Rust and C  
+- 💡 Passionate about software development
+- 🌱 Learning C  
 - 📫 Reach me at **xlabber59@gmail.com
 ## 🔗 Connect with Me  
 <p align="center">
