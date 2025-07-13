@@ -3,7 +3,8 @@
 ## 🚀 About Me  
 - 🎓 First-year Electronics and Communication Engineering student at PES University  
 - 💡 Passionate about software development
-- 🌱 Learning C  
+- 🌱 Learning C
+- 🌱 Learning AI/ML
 - 📫 Reach me at **xlabber59@gmail.com
 ## 🔗 Connect with Me  
 <p align="center">
