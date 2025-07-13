@@ -1,7 +1,7 @@
 # Hi there, I'm Harsh Patnaik 👋
 
 ## 🚀 About Me
-- 🎓 First-year Electronics and Communication Engineering student at PES University
+- 🎓 Second-year Electronics and Communication Engineering student at PES University
 - 💡 Passionate about software development
 - 🌱 Learning C
 - 🌱 Learning AI/ML
