@@ -1,7 +1,7 @@
 # Hi there, I'm Harsh Patnaik 👋
 
 <p align="left">
-  <a href="INSERT_YOUR_RESUME_LINK_HERE">
+  <a href="https://github.com/Ox0Ox/Resume/blob/main/Resume4.pdf">
     <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
