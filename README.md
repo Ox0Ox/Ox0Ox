@@ -67,6 +67,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox0Ox&layout=compact&theme=tokyonight&cache_bust=<?php echo time(); ?>" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox0Ox&layout=compact&theme=tokyonight&cache_bust=1" />
 </p>
 
