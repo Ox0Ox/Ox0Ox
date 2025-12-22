@@ -1,11 +1,57 @@
 # Hi there, I'm Harsh Patnaik 👋
 
+<p align="left">
+  <a href="INSERT_YOUR_RESUME_LINK_HERE">
+    <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
 ## 🚀 About Me
-- 🎓 Second-year Electronics and Communication Engineering student at PES University
-- 💡 Passionate about software development
-- 🌱 Learning C
-- 🌱 Learning AI/ML
-- 📫 Reach me at **xlabber59@gmail.com**
+- 🎓 **Second-year Electronics and Communication Engineering** student at **PES University**.
+- 🤖 Passionate about **Autonomous Systems, UAV Dynamics, and Robotics Simulation**.
+- 🏆 **Runner-Up** at Hackezee Hackathon 2025 and **Stage 2 Qualifier** for e-Yantra 2025.
+- 📫 Reach me at **harshpatnaik133@gmail.com**.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🤖 Robotics & Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Gazebo-FFAB40?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+### 💻 Languages & Software
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### **e-Yantra Robotics (eYRC 2025)**
+* **Focus:** UAV control and simulation using **ROS 2** and **Gazebo**.
+* **Result:** Achieved $\pm0.4m$ positional accuracy with PID-based stabilization.
+* **Hardware:** Integrated CrazyF405HD FC and built 555-timer latching circuits.
+
+### **Recon Bot (Hackezee 2025 Runner-Up)**
+* **Focus:** Teleoperated reconnaissance robot for hazardous zones.
+* **Tech:** **ESP32**, Sonar mapping, and Gas-level detection via a cloud dashboard.
+
+### **VigilAI**
+* **Focus:** AI Misinformation Checker using **Gemini API** and **Python**.
+* **Tech:** Multi-modal content extraction (audio, keyframes) for platform-wide detection.
+
+---
 
 ## 🔗 Connect with Me
 <p align="center">
@@ -17,68 +63,9 @@
   </a>
 </p>
 
-➡️ Check out more projects on [GitHub](https://github.com/Ox0Ox?tab=repositories)
+## 📊 Activity & Stats
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ox0Ox&show_icons=true&theme=tokyonight&cache_bust=0" alt="GitHub Stats" />
-</p>
 
-## 📚 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox0Ox&layout=compact&theme=tokyonight&cache_bust=0" alt="Most Used Languages" />
-</p>
-
-## 🔥 GitHub Activity
-<p align="center">
-  <img width="97%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ox0Ox&theme=tokyo-night&cache_bust=0" alt="GitHub Activity Graph" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ox0Ox&theme=tokyonight&cache_bust=0" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ox0Ox&theme=tokyonight&cache_bust=0" alt="GitHub Streak Stats" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ox0Ox&theme=onedark&no-frame=true&margin-w=15&cache_bust=0" alt="GitHub Trophies" />
-</p>
-
-## 💻 Languages and Tools
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
-
-### Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</p>
-
-### Database
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-### Others
-<p align="center">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
