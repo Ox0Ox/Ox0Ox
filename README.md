@@ -1,4 +1,4 @@
-# Hi there, I'm Harsh Patnaik 👋
+# Hey there, I'm Harsh Patnaik 👋
 
 <p align="left">
   <a href="https://github.com/Ox0Ox/Resume/blob/main/Resume.pdf">
@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 **Second-year Electronics and Communication Engineering** student at **PES University**.
+- 🎓 **Third-year Electronics and Communication Engineering** student at **PES University**.
 - 🤖 Passionate about **Autonomous Systems, UAV Dynamics, and Robotics Simulation**.
 - 🏆 **Runner-Up** at Hackezee Hackathon 2025 and **Stage 2 Qualifier** for e-Yantra 2025.
 - 📫 Reach me at **harshpatnaik133@gmail.com**.
@@ -43,6 +43,10 @@
 * **Result:** Achieved $\pm0.4m$ positional accuracy with PID-based stabilization.
 * **Hardware:** Integrated CrazyF405HD FC and built 555-timer latching circuits.
 
+### **BVLOS Rover**
+* **Focus:** Teleoperated rover simulation under BVLOS constraints using **ROS 2** and **Gazebo**.
+* **Result:** Successful simulation of a BVLOS rover with GPS and cellular signal drops.
+
 ### **Recon Bot (Hackezee 2025 Runner-Up)**
 * **Focus:** Teleoperated reconnaissance robot for hazardous zones.
 * **Tech:** **ESP32**, Sonar mapping, and Gas-level detection via a cloud dashboard.
@@ -61,12 +65,5 @@
   <a href="https://github.com/Ox0Ox">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-## 📊 Activity & Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ox0Ox&layout=compact&theme=tokyonight&cache_bust=1" />
 </p>
 
