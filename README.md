@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🎓 **Third-year Electronics and Communication Engineering** student at **PES University**.
 - 🤖 Passionate about **Autonomous Systems, UAV Dynamics, and Robotics Simulation**.
-- 🏆 **Runner-Up** at Hackezee Hackathon 2025 and **Stage 2 Qualifier** for e-Yantra 2025.
+- 🏆 **Stage 2 Qualifier** for e-Yantra 2025.
 - 📫 Reach me at **harshpatnaik133@gmail.com**.
 
 ---
