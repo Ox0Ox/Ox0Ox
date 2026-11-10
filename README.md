@@ -7,31 +7,57 @@
 </p>
 
 ## 🚀 About Me
-- 🎓 **Third-year Electronics and Communication Engineering** student at **PES University**.
-- 🤖 Passionate about **Autonomous Systems, UAV Dynamics, and Robotics Simulation**.
-- 🏆 **Stage 2 Qualifier** for e-Yantra 2025.
+- 🎓 **Pre-final-year Electronics and Communication Engineering** student at **PES University, Bengaluru**.
+- ⚙️ Focused on **Systems Engineering, Autonomous Systems, UAV Dynamics & Control, and Hardware-Software Integration**.
+- 🤖 Experienced in robotics simulation, PX4/ROS 2 development, embedded systems, PCB design, and HIL/SIL validation.
 - 📫 Reach me at **harshpatnaik133@gmail.com**.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### 🤖 Robotics & Hardware
+### 🤖 Robotics, Autonomy & Simulation
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
-  <img src="https://img.shields.io/badge/Gazebo-FFAB40?style=flat-square&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/ROS_2_Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/PX4-3776AB?style=flat-square&logoColor=white" alt="PX4" />
+  <img src="https://img.shields.io/badge/Gazebo-FFAB40?style=flat-square&logoColor=black" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/Betaflight-EC1C24?style=flat-square&logoColor=white" alt="Betaflight" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/PID_&_Feedforward_Tuning-008080?style=flat-square&logoColor=white" alt="PID and Feedforward" />
 </p>
 
-### 💻 Languages & Software
+### ✈️ CAD, Aerodynamics & Systems Analysis
+<p align="left">
+  <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/CFD_Analysis-00599C?style=flat-square&logoColor=white" alt="CFD" />
+  <img src="https://img.shields.io/badge/Propulsion_&_Thermal_Sizing-FF6F00?style=flat-square&logoColor=white" alt="Propulsion and Thermal Sizing" />
+  <img src="https://img.shields.io/badge/Kinematics-6A5ACD?style=flat-square&logoColor=white" alt="Kinematics" />
+</p>
+
+### 🔌 Hardware, Embedded Systems & PCB Design
+<p align="left">
+  <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/PCB_Design-00897B?style=flat-square&logoColor=white" alt="PCB Design" />
+  <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=flat-square&logoColor=white" alt="EasyEDA" />
+  <img src="https://img.shields.io/badge/CAN_Bus-555555?style=flat-square&logoColor=white" alt="CAN Bus" />
+  <img src="https://img.shields.io/badge/ELRS_RF-FF9800?style=flat-square&logoColor=white" alt="ELRS" />
+  <img src="https://img.shields.io/badge/Hardware_Diagnostics-607D8B?style=flat-square&logoColor=white" alt="Hardware Diagnostics" />
+</p>
+
+### 💻 Programming, Communication & Engineering Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  <img src="https://img.shields.io/badge/UART_|_I2C_|_SPI-455A64?style=flat-square&logoColor=white" alt="UART I2C SPI" />
+  <img src="https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5 Canvas" />
+  <img src="https://img.shields.io/badge/GNU_Radio-FF6600?style=flat-square&logoColor=white" alt="GNU Radio" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/PlotJuggler-4B0082?style=flat-square&logoColor=white" alt="PlotJuggler" />
 </p>
 
 ---
